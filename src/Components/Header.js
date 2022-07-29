@@ -3,7 +3,7 @@ import TypeWriter from "react-typewriter";
 
 const Header = ({ data }) => {
   if (data) {
-    var name = data.name;
+    var name = data.MainName;
     var occupation = data.occupation;
     var description = data.description;
     var subdescription = data.subdescription;
