@@ -179,7 +179,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color: #e687b1; }
 
 
 /* ------------------------------------------------------------------ */
@@ -193,12 +193,12 @@ ul#nav li.current a { color: #F06000; }
    overflow: hidden;
 }
 
-#about a, #about a:visited  { color: #fff; }
+#about a, #about a:visited  { color: #de6e3e; }
 #about a:hover, #about a:focus { color: #11ABB0; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
-   color: #fff;
+   color: #cc8035;
    margin-bottom: 12px;
 }
 #about p {
